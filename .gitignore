@@ -1,0 +1,9 @@
+# Compiled executables
+input
+output
+
+# Test files
+*.txt
+
+# Object files
+*.o
